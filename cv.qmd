@@ -1,0 +1,16 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download my CV (PDF)](files/cv.pdf){.btn .btn-primary}
+
+<!-- The iframe below embeds the PDF directly in the page, so
+     committees can read it without downloading. Replace files/cv.pdf
+     with your actual CV and this works automatically. -->
+
+```{=html}
+<iframe src="files/cv.pdf" width="100%" height="900px" style="border:1px solid #ddd; border-radius:4px; margin-top:1rem;">
+  <p>Your browser does not support embedded PDFs.
+     <a href="files/cv.pdf">Download the CV instead</a>.</p>
+</iframe>
+```

@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tamara Podvysotska"
+  site-url: https://top1016.github.io
+  description: "Developmental scientist with a background in economics, studying family wealth, inequality, and child development."
+  navbar:
+    pinned: true
+    left:
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    tools:
+      - icon: envelope
+        href: mailto:top18@pitt.edu
+      - icon: google
+        href: https://scholar.google.com/citations?user=tZqTatkAAAAJ
+        text: Google Scholar
+      - icon: person-badge
+        href: https://orcid.org/0000-0002-1048-0349
+        text: ORCID
+  page-footer:
+    center: |
+      © 2026 Tamara Podvysotska · Made with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

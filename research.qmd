@@ -1,0 +1,79 @@
+---
+title: "Research"
+toc: true
+---
+
+## Overview
+
+Wealth inequality is among the defining trends of the U.S. economy,
+yet most research on how family wealth shapes children's development
+relies on net worth, a single composite number that conceals the
+distinct, sometimes opposing, roles of what families own and what
+they owe. My research unpacks that composite.
+
+My dissertation drew on longitudinal data following more than 7,000
+young adults over 24 years (NLSY79 and its Child and Young Adult
+cohort) to examine how parental assets and debts across three periods
+of childhood relate to fifteen young adult outcomes spanning
+education, economic wellbeing, mental health, behavior, and family
+formation. Three findings anchor this work. First, assets and debts
+are qualitatively distinct predictors, and treating them as a single net
+figure obscures how each operates. Second, timing matters:
+early-childhood wealth was linked to behavioral outcomes, middle
+childhood to mental health, and adolescence to educational, economic,
+and family formation outcomes. Third, young adults' own wealth
+accumulation is a central pathway through which childhood economic
+conditions carry forward — and assets and debts persist across
+generations more strongly than net worth itself.
+
+This work extends an earlier research program in health economics:
+before studying wealth and child development, I spent a decade
+examining how health, poverty, and inequality interact in transition
+economies, in research supported by the Vienna Institute of
+International Economic Studies and the Global Development Network and
+in policy work with the World Bank, WHO, and the World Economic
+Forum.
+
+## Selected peer-reviewed publications
+
+Miller, P., **Podvysotska, T.**, Jones, E., Hanson, J. L., &
+Votruba-Drzal, E. (2026). How family assets and debts relate to
+children's achievement and behavior problems across development.
+*Social Development, 35*(1), e70033.
+[doi:10.1111/sode.70033](https://doi.org/10.1111/sode.70033)
+
+Miller, P., Elliott, L. E., **Podvysotska, T.**, Ptak, C., Duong, S.,
+Fox, D., Coulanges, L., Libertus, M., Bachman, H. J., & Votruba-Drzal,
+E. (2023). Toddler home math environment: Triangulating multi-method
+assessments in a U.S. sample. *Frontiers in Psychology, 14*, 1105569.
+[doi:10.3389/fpsyg.2023.1105569](https://doi.org/10.3389/fpsyg.2023.1105569)
+
+Miller, P., **Podvysotska, T.**, Betancur, L., & Votruba-Drzal, E.
+(2021). Wealth and child development: Differences in associations by
+family income and developmental stage. *RSF: The Russell Sage
+Foundation Journal of the Social Sciences, 7*(3), 154–174.
+[doi:10.7758/rsf.2021.7.3.07](https://doi.org/10.7758/rsf.2021.7.3.07)
+
+*Earlier work in health economics, poverty, and inequality (published
+under Podvysotska and Podvysotskaya) includes peer-reviewed articles
+and working papers with wiiw, GDN, and DIW Berlin, and Ukraine's
+National Competitiveness Reports (2012, 2013) produced with the World
+Economic Forum. A complete list appears in my [CV](cv.qmd).*
+
+## Selected presentations
+
+**Podvysotska, T.** (2024, December). *Applying DDML (double/debiased
+machine learning) in R and Stata: A use case from NLSY data on
+parental wealth and children's developmental outcomes.* Invited
+methods talk, CAMeL, Department of Psychology, University of
+Pittsburgh.
+
+**Podvysotska, T.**, Miller, P., Hanson, J., & Votruba-Drzal, E.
+(2023, March). *Assets & debts and child development: Main effects
+and developmental differences.* Paper presented at the SRCD Biennial
+Meeting, Salt Lake City, UT.
+
+Betancur, L., Miller, P., **Podvysotska, T.** (presenter), &
+Votruba-Drzal, E. (2021, April). *The role of wealth components in
+shaping children's academic and behavioral outcomes.* Paper presented
+at the SRCD Biennial Meeting (virtual).

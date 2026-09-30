@@ -1,0 +1,46 @@
+---
+title: "Tamara Podvysotska"
+about:
+  template: trestles
+  image: assets/IMG_2732.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:top18@pitt.edu
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=tZqTatkAAAAJ
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-1048-0349
+    - icon: file-earmark-person
+      text: CV
+      href: cv.qmd
+---
+
+
+Hello and welcome :)
+
+I am a developmental scientist with a background in economics. I study how family economic circumstances shape children's development and young adults' life chances.
+
+My research sits at the intersection of developmental science,
+economics, and policy. I completed my Ph.D. in Developmental
+Psychology at the University of Pittsburgh, where my dissertation
+followed more than 7,000 young adults over 24 years to examine how
+the composition and timing of childhood family wealth relate to
+outcomes across education, economic wellbeing, mental health, and
+family formation.
+
+I bring an unusual path to this work: before turning to developmental
+science, I earned a doctorate in economics and spent a decade as a
+professor and policy researcher in Ukraine, advising national health
+and social reform efforts in partnership with the World Bank, WHO,
+and the World Economic Forum.
+
+As an educator with fifteen years of university teaching across two
+countries, I teach developmental psychology, research methods, and
+quantitative analysis — helping students connect developmental
+science to the real economic and social conditions of children's
+lives.
+
+[Learn more about me →](about.qmd)

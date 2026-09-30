@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+// Accent color — a muted teal that reads calm and academic.
+// Change this one variable to re-color links and buttons site-wide.
+$site-accent: #2a7f7f;
+
+$link-color: $site-accent;
+
+/*-- scss:rules --*/
+
+.navbar-title {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.btn-primary {
+  background-color: $site-accent;
+  border-color: $site-accent;
+}
+
+// A little breathing room on content pages
+main.content {
+  max-width: 46rem;
+}
